@@ -1,0 +1,14 @@
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net8.0\OrOperator.exe
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net8.0\OrOperator.deps.json
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net8.0\OrOperator.runtimeconfig.json
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net8.0\OrOperator.dll
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net8.0\OrOperator.pdb
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net8.0\OrOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net8.0\OrOperator.AssemblyInfoInputs.cache
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net8.0\OrOperator.AssemblyInfo.cs
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net8.0\OrOperator.csproj.CoreCompileInputs.cache
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net8.0\OrOperator.dll
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net8.0\refint\OrOperator.dll
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net8.0\OrOperator.pdb
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net8.0\OrOperator.genruntimeconfig.cache
+C:\Users\Taavet\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net8.0\ref\OrOperator.dll

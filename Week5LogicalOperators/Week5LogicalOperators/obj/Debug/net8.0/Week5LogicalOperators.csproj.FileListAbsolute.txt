@@ -1,0 +1,14 @@
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\bin\Debug\net8.0\Week5LogicalOperators.exe
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\bin\Debug\net8.0\Week5LogicalOperators.deps.json
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\bin\Debug\net8.0\Week5LogicalOperators.runtimeconfig.json
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\bin\Debug\net8.0\Week5LogicalOperators.dll
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\bin\Debug\net8.0\Week5LogicalOperators.pdb
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net8.0\Week5LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net8.0\Week5LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net8.0\Week5LogicalOperators.AssemblyInfo.cs
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net8.0\Week5LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net8.0\Week5LogicalOperators.dll
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net8.0\refint\Week5LogicalOperators.dll
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net8.0\Week5LogicalOperators.pdb
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net8.0\Week5LogicalOperators.genruntimeconfig.cache
+C:\Users\Taavet\source\repos\Week5LogicalOperators\Week5LogicalOperators\obj\Debug\net8.0\ref\Week5LogicalOperators.dll
